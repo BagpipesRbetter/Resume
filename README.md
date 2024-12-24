@@ -1,2 +1,1 @@
-#My Resume
-![My Resume](https://raw.githubusercontent.com/BagpipesRbetter/Resume/master/Resume.pdf)
+![My Resume](https://raw.githubusercontent.com/BagpipesRbetter/Resume/master/EvanBarclayResume.pdf)
