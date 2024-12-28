@@ -1,5 +1,5 @@
 remote_theme: "dracula/gh-pages"
 title: Evan Barclay Resume
-description: its pretty self explanatory 🤷🏻‍♂️
+description: if your looking for a download head over to the <a href="https://github.com/BagpipesRbetter/Resume">Github</a>
 include:
   - style.css
